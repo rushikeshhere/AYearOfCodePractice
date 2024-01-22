@@ -1,4 +1,4 @@
-package com.practice.Day1;
+package com.practice.Day01;
 
 public class HelloWorld {
 
