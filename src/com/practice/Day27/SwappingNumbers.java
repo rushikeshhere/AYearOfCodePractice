@@ -1,4 +1,4 @@
-package com.practice.Day27;
+ package com.practice.Day27;
 
 public class SwappingNumbers {
 	public static void main(String[] args) {
