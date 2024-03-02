@@ -14,5 +14,4 @@ public class Factorial_Program1 {
 		System.out.println(fact);
 		sc.close();
 	}
-
 }
