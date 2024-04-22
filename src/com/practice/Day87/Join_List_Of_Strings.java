@@ -16,5 +16,4 @@ public class Join_List_Of_Strings {
 		}
 		System.out.println("String is : " + str);
 	}
-
 }
